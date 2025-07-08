@@ -1,1 +1,5 @@
+selenium
+pandas
+chromedriver-autoinstaller
+websocket-client
 
