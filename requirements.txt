@@ -2,4 +2,5 @@ selenium
 pandas
 chromedriver-autoinstaller
 websocket-client
+webdriver-manager
 
