@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     description='TradingView data fetcher (modified version)',
     author='TothyoIT',
-    author_email='your-email@example.com',
+    author_email='kamalhussain193213@outlook.com',
     url='https://github.com/TothyoIT/tvdatafeed-pro',
     packages=find_packages(),
     install_requires=[
