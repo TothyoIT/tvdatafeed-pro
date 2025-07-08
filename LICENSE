@@ -1,1 +1,23 @@
 
+---
+
+## ✅ Next Steps for You
+
+1. Paste above `main.py` into `tvdatafeed_pro/main.py`
+2. Paste above `README.md` into root `README.md`
+3. Go to **Releases tab** → Click **"Draft new release"**  
+   - Tag: `v0.2.0`  
+   - Title: `tvdatafeed-pro v0.2.0`  
+   - Description:
+     ```
+     🔥 Manual login enabled  
+     ✅ WebDriver doesn't auto-close  
+     ✅ Supports market-qx.pro chart scraping  
+     ```
+
+4. Click **Publish**
+
+---
+
+তুমি চাইলে আমি README এর বাংলা ভার্সনও বানিয়ে দিতে পারি। বলো 😊
+
